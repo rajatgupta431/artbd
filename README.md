@@ -53,3 +53,4 @@ pyinstaller --onefile --name ArtBoardServer --add-data "static_files:static_file
 - The exe extracts files to a temp folder at runtime and cleans up on exit
 - Default port is 8080 — edit `art_board_server.py` to change
 - Files are embedded but not encrypted — this hides them from casual users but isn't DRM
+# artbd
